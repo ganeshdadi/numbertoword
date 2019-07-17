@@ -4,7 +4,7 @@ package com.virtusa.numbertoword;
  * Hello world!
  *
  */
-public class App 
+public class NumberToWordApp 
 {
     public static void main( String[] args )
     {
